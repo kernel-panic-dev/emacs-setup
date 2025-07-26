@@ -1,0 +1,16 @@
+#+TITLE: Emacs config file
+#+AUTHOR: kernel-panic-dev
+
+* This marks the beginning to joinning the dark side (emacs)
+** Starting off this will be my first init.el file and lets see how much more i will configure it.
+
+* The file contains the following:
+** evil-mode (vim bindings)
+** nyan cat on the modeline
+** org mode
+** catppuccian theme
+** treesite of syntax highlighting
+
+*** TODO:
+- autocompletion
+- debugging for C/C++ and python
